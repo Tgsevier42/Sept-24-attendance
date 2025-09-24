@@ -1,6 +1,6 @@
 # Sept-24-attendance
 
-##Heading Style 2
+## Heading Style 2
 this is some text i could put under heading style 2
 
 ## Files In This Folder
